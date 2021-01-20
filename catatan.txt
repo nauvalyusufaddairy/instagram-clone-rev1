@@ -1,0 +1,51 @@
+==========================================================================================================
+17/12/2020
+==========================================================================================================
+(16:48)
+menjelaskan mengenai gambar header 
+- dalam menit ini juga dijel;askan mengenai 'object-fit: contain;'
+artinya setiap gambar yang menggunakan properti ini tidak akan berubah ukuran walaupun layar nya diperbesar 
+(29:41)
+-end course
+-installing material ui tapi belum
+-klo anda save perubahan misalkan di Post.css tapi anehnya tidak terjadi perubahan itu karena
+anda tidak save juga di Post.js makanya perubahan tidaka akan nam[pil]
+==========================================================================================================
+19/12/2020
+==========================================================================================================
+(29:34)
+-install material ui
+==========================================================================================================
+20/12/2020
+==========================================================================================================
+(51:14)
+- menjelaskan mengenai hook 
+- contoh hook [username, caption] = useState([])
+- lihat App.js
+==========================================================================================================
+21/12/2020
+==========================================================================================================
+(57:32)
+- menjelaskan looping post menggunakan map 
+- contoh sederhana kita akan looping post pada instagram
+  const [post] = useState([ 
+      {
+      nama : "gaga",
+      caption:"blabla,
+      imageurl:"gk/dj/dj/d"
+      },{},{},,,,,,,,,,,
+      ])
+- contoh sintak diatas yaitu contoh penggunaan state dalam mengambil data post dalam bentuk array object karena
+  menggunakan []
+
+==========================================================================================================
+22/12/2020
+==========================================================================================================
+(1:11:10)
+- menjelaskan pemakaian useEffect()
+- usesEffect() adalah method untuk menangkap semua perubahan yang terjadi pada parameter yang sedang di awasi
+- contoh penggunaan useEffect()
+  useEffect({},[]);
+
+  {} adalah tempat kode yang akan di jalan kan 
+- yang harus dipelajari useEffect, map, useState
