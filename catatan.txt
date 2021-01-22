@@ -49,3 +49,23 @@ anda tidak save juga di Post.js makanya perubahan tidaka akan nam[pil]
 
   {} adalah tempat kode yang akan di jalan kan 
 - yang harus dipelajari useEffect, map, useState
+==========================================================================================================
+15/1/2021
+==========================================================================================================
+(1:28:21)
+- memulai untuk menyeting authentification dengan menggunakan email and password
+
+(1:36:57)
+- membuat tombol logion dan signup menggunakan modal terakhir masih error bos belum selesai
+(1:54:01)
+- selesai aplikasi sudah dapat  signup 
+==========================================================================================================
+18/1/2021
+==========================================================================================================
+<<Storing image and post into firebase>>
+(2:11:24)
+
+(2:38:1)
+- masih terdapat bug untuk menampilkan laman ImageUpload diperkirakan masalahnya pada
+  user.displayNama dimana 'user.displayName' adalah tree dari object user yang terdapat
+  pada [user,setUser]=useState(null)
